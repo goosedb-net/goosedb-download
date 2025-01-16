@@ -1,4 +1,4 @@
-<pre>
+```
 GooseDB: Supercharging DuckDB for Collaborative Data Analysis
 GooseDB is a powerful, feature-extended fork of DuckDB, designed to bring collaborative data analysis to the forefront. 
 Building upon DuckDB's renowned speed and analytical capabilities, GooseDB introduces crucial enhancements for modern data workflows, 
@@ -24,4 +24,4 @@ Use Cases:
 •	Real-time Data Analytics: Enable real-time data ingestion and analysis for applications requiring up-to-the-minute insights.
 •	Business Intelligence: Provide business users with a powerful and collaborative platform for data analysis and reporting.
 •	Data Warehousing: Build high-performance data warehouses with support for concurrent writes and large datasets.
-</pre>
+```
