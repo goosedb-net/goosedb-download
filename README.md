@@ -3,6 +3,7 @@ GooseDB: Supercharging DuckDB for Collaborative Data Analysis
 GooseDB is a powerful, feature-extended fork of DuckDB, designed to bring collaborative data analysis to the forefront. 
 Building upon DuckDB's renowned speed and analytical capabilities, GooseDB introduces crucial enhancements for modern data workflows, 
     including server/client architecture, multi-session support, and concurrent write capabilities, all while leveraging the robust PostgreSQL wire protocol.
+
 Key Features:
 •	Server/Client Architecture: GooseDB transforms DuckDB into a true client-server database, enabling multiple users to connect and interact with the same database instance simultaneously. 
     This opens up new possibilities for collaborative data exploration and analysis.
