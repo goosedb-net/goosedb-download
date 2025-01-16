@@ -1,11 +1,16 @@
 <pre>
 GooseDB: Supercharging DuckDB for Collaborative Data Analysis
-GooseDB is a powerful, feature-extended fork of DuckDB, designed to bring collaborative data analysis to the forefront. Building upon DuckDB's renowned speed and analytical capabilities, GooseDB introduces crucial enhancements for modern data workflows, including server/client architecture, multi-session support, and concurrent write capabilities, all while leveraging the robust PostgreSQL wire protocol.
+GooseDB is a powerful, feature-extended fork of DuckDB, designed to bring collaborative data analysis to the forefront. 
+Building upon DuckDB's renowned speed and analytical capabilities, GooseDB introduces crucial enhancements for modern data workflows, 
+    including server/client architecture, multi-session support, and concurrent write capabilities, all while leveraging the robust PostgreSQL wire protocol.
 Key Features:
-•	Server/Client Architecture: GooseDB transforms DuckDB into a true client-server database, enabling multiple users to connect and interact with the same database instance simultaneously. This opens up new possibilities for collaborative data exploration and analysis.
+•	Server/Client Architecture: GooseDB transforms DuckDB into a true client-server database, enabling multiple users to connect and interact with the same database instance simultaneously. 
+    This opens up new possibilities for collaborative data exploration and analysis.
 •	Multi-Session Support: With support for multiple concurrent sessions, GooseDB allows teams to work on the same data concurrently, streamlining workflows and fostering collaboration.
-•	Concurrent Write Capabilities: Unlike the original DuckDB, GooseDB supports concurrent writes, enabling real-time data updates and ingestion without compromising performance. This is crucial for applications requiring continuous data updates.
-•	PostgreSQL Wire Protocol: GooseDB utilizes the widely adopted PostgreSQL wire protocol, ensuring seamless integration with a vast ecosystem of existing database tools, clients, and libraries. This simplifies adoption and reduces the learning curve for users familiar with PostgreSQL.
+•	Concurrent Write Capabilities: Unlike the original DuckDB, GooseDB supports concurrent writes, enabling real-time data updates and ingestion without compromising performance. 
+    This is crucial for applications requiring continuous data updates.
+•	PostgreSQL Wire Protocol: GooseDB utilizes the widely adopted PostgreSQL wire protocol, ensuring seamless integration with a vast ecosystem of existing database tools, clients, and libraries. 
+    This simplifies adoption and reduces the learning curve for users familiar with PostgreSQL.
 •	Enhanced Performance: GooseDB retains DuckDB's exceptional performance for analytical queries, providing lightning-fast results even with complex datasets.
 •	Seamless Integration with Existing DuckDB Ecosystem: GooseDB maintains compatibility with existing DuckDB APIs and data formats, allowing users to easily migrate their existing DuckDB projects.
 Benefits of Using GooseDB:
